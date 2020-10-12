@@ -85,4 +85,4 @@ Feito com 💜 por <a href="https://www.linkedin.com/in/marlon-ricci/" target="_
 [url-npm]: https://www.npmjs.com/
 [url-yarn]: https://yarnpkg.com/
 [mayk]: https://github.com/maykbrito
-[license]: https://github.com/MarlonRicci/happy/blob/master/LICENSE.md
+[license]: https://github.com/MarlonRicci/happy/blob/master/LICENSE
